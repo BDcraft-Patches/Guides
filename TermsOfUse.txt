@@ -1,0 +1,24 @@
+Before you can download PureBDcraft you must accept the following simple Terms of Use:
+These Terms of Use are subject to change at any time, and you will endeavour to refamiliarise yourself with them before any subsequent downloads.
+The Terms of Use displayed here supersede any “terms of use.txt” or “legal.txt” files found in the downloads.
+PureBDcraft is a resourcepack containing many different files; mainly textures in PNG format and 3D models in JSON format.
+PureBDcraft has been tested as much as possible, but it may contain bugs. If you find one, you can report it on the forum.
+PureBDcraft has been scanned for viruses and malware and does not contain any (resourcepacks do not contain any executable files).
+PureBDcraft is downloadable only if you use the official links available on this page.
+In the unlikely event the pack causes damage to your computer BDcraft takes no responsibility for any damage rendered.
+
+As a user of PureBDcraft you agree that you ARE authorised to:
+decompile, alter and remix PureBDcraft for personal use if, and only if, you do not share the altered pack publicly.
+decompile, alter and remix PureBDcraft for exclusive use in online videos if, and only if, you do not share the altered pack publicly and you add due credits in the video description (with a working link to BDcraft.net):
+“PureBDcraft ResourcePack by https://bdcraft.net”.
+monetize online videos using PureBDcraft if, and only if, you do not share the altered pack publicly and you add due credits in the video description (with a working link to BDcraft.net):
+“PureBDcraft ResourcePack by https://bdcraft.net”.
+decompile, alter and remix PureBDcraft for use in non-commercial software if, and only if, you add due credits in a visible place (with a working link to BDcraft.net):
+“Textures/3D Models/Sounds from PureBDcraft ResourcePack by https://bdcraft.net”.
+decompile, alter and remix PureBDcraft for use in other games (i.e. make a “port”) if, and only if, there is no official release by BDcraft, you do not monetize the work in any way, and you add due credits in a visible place (with a working link to BDcraft.net):
+“Textures/3D Models/Sounds from PureBDcraft ResourcePack by https://bdcraft.net”.
+copy, alter and remix textures from PureBDcraft for Mods Patches (read this thread for details).
+
+For any other reason than those previously stated you agree you ARE NOT authorised to:
+modify, copy, host, mirror, publish, transfer, license, distribute, transmit, sell, monetise, reproduce, alter, or decompile PureBDcraft.
+create a remixpack using one or more files from PureBDcraft.
