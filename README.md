@@ -1,34 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-
+<!-- Made using the Best-README-Template -->
 
 <!-- PROJECT LOGO -->
 <br />
@@ -86,7 +56,7 @@ According to our terms, you are not authorized to create derivative works based 
 
 :bangbang:***HOWEVER***:bangbang:, we waive this condition of use exclusively for MODs support patches if, and only if, the conditions in **[this forum post](https://bdcraft.net/community/viewtopic.php?t=312)** are met. Please read the entire post carefully before creating any mods or patches.
 
-:warning: *Remember*, when using other people's patches/textures/resources, they reserve all rights to those files. It's generally accepted that they allow reuse and rehosting of such resources as part of the community spirit. Always check each individual license and terms before modifying or distributing anyone else's work.
+:warning:*Remember*:warning:, when using other people's patches/textures/resources, they reserve all rights to those files. It's generally accepted that they allow reuse and rehosting of such resources as part of the community spirit. Always check each individual license and terms before modifying or distributing anyone else's work.
 
 ### Terms
 Before downloading or creating your own assets, make sure you read the [Terms of Use](./TermsOfUse.txt) and agree to BDCraft's [Terms and Conditions](https://bdcraft.net/terms-and-conditions/).
@@ -125,22 +95,3 @@ You can also check us out on [Facebook](https://www.facebook.com/bdcraft/) and [
 * [Sphax](https://twitter.com/sphax84), creator of BDCraft.
 * [HanFox](https://twitter.com/HanPrower), fearless admin and web dev.
 * [StickerMonster](https://twitter.com/heylisten), artist who wants more people to make cool stuff.
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
