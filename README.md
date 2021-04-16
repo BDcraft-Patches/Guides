@@ -20,9 +20,8 @@
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
-    <li>
-      <a href="#about-bdcraft">About BDCraft</a>
-    </li>
+    <li><a href="#guides">Guides</a></li>
+    <li><a href="#about-bdcraft">About BDCraft</a></li>
     <li>
       <a href="#rules-terms-and-license">Rules, Terms, and License</a>
       <ul>
@@ -37,6 +36,14 @@
   </ol>
 </details>
 
+<!-- GUIDES -->
+## Guides
+This repository is a work in progress.
+We are busy working on visual style guides to help assist in the patch-making process.
+
+[PureBDCraft Item Style Guidelines](./guides/styleguide_pure_item.png)
+
+In the future we look forward to looking into creating video tutorials as well.
 
 
 <!-- ABOUT -->
