@@ -41,7 +41,7 @@
 This repository is a work in progress.
 We are busy working on visual style guides to help assist in the patch-making process.
 
-[PureBDCraft Item Style Guidelines](./guides/styleguide_pure_item.png)
+[PureBDCraft Item Style Guidelines](./guides/styleguide_pure_items.png)
 
 In the future we look forward to looking into creating video tutorials as well.
 
